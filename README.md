@@ -2,8 +2,13 @@ Hi 👋, I'm Lucas Pedreira
 
 - 📫 How to reach me: pedreiralucasm@gmail.com  
   
+
+I'm from Buenos Aires, Argentina, currently student of international commerce.
+Full Stack Developer💻
 Languages and Tools:
-css express html5 javascript mysql nodejs postgresql postman react reactnative redux 
+>Back-end: NodeJs, Express, Sequalize, MySQL, postgresql, postman
+>Front-end: React, Redux, CSS, HTML, javascript, reactnative
+
   
 
 
