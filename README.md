@@ -4,8 +4,8 @@ Hi 👋, I'm Lucas Pedreira
   
 - 💻 Full Stack Developer
 - 💻 Languages and Tools:
-- ✨ Front-end: React, Redux, CSS, HTML, javascript, reactnative, Redux Tool-kit
-- ✨ Back-end: NodeJs, Express, Sequalize, PostgresSQL, postman, TypeScript
+- ✨ Front-end: React, Redux, CSS, HTML, javascript, reactnative, Redux Tool-kit, TypeScript
+- ✨ Back-end: NodeJs, Express, Sequalize, PostgresSQL, postman, TypeScript, JavaScript
 
 
   
